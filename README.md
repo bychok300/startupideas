@@ -1,5 +1,5 @@
 Startup 
------------------------------------------------
+===============================================
 This is a list of ideas for Sturtups
 -----------------------------------------------
  1. **ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
