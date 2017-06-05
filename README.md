@@ -1,8 +1,8 @@
-Startup 
+<h2>Startup 
 ===============================================
 This is a list of ideas for Sturtups
 -----------------------------------------------
- 1. **ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
+**ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
 
 **How to do**: 
 I think that simple way to do it is use openCV.
