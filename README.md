@@ -1,7 +1,11 @@
 **Startup**
-===============================================
-This is a list of ideas for Sturtups
 -----------------------------------------------
+
+This is a list of ideas for Sturtups
+
+-----------------------------------------------
+
+
 **ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
 
 **How to do**: 
@@ -19,11 +23,22 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 **basic concept :** you create account and can create new tasks that will on main page of app. Another users can do it task, and share to you the evidence that task was done, but the verifications of how truthly was evidence will do by admins of app. After verifying of evidance user can get a money for his finished task. After it you can publish it on main page or in the relevant section, or make it private and just take your money.
 
+----------------------------------------------
+
+**SmartHomeTemp** - temperature control by neural network.
+
+**idea** - if you got a smart home tool kit you may collect data about temperature in house and temperature out  of house. After it you may train neural net and she will control temperature.
+
+**main feature :** So, i think that main feature it is a automated collecting data and neural network training. I think that if temperature on street higher hour after hour the conditioner need more energy to ensure a stable temperature inside of house. Thats why we need machine learning, i think that it can help control temperature and energy balance to ensure comfortable temperature in and  less using energy.
+
+----------------------------------------------
 
 
 
 
+----------------------------------------------
 
+**P.S. I dont check if that ideas already exist**
 __________________________________
 The MIT License (MIT)
 Copyright © 2017 Bychek Anton
