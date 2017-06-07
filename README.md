@@ -4,6 +4,7 @@
 This is a list of ideas for Sturtups
 
 -----------------------------------------------
+<a name="Up"></a>
 
 [**ForlmulaTranslator**](#FormulaTranslator)
 
@@ -58,7 +59,9 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 ### **HotOrNot** - how much you hot
 
-**idea** - we need a dataset  with photo and average assessment of beauty of girl/boy
+**idea** - we need a dataset  with photo and average assessment of beauty of girl/boy.
+
+[up](#Up)
 
 
 ----------------------------------------------
