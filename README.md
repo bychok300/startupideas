@@ -34,7 +34,7 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 <a name="BitDreamr"></a>
 
-#### **BitDream** - doing not usual things for money.
+### **BitDream** - doing not usual things for money.
 
 **Idea :** Suppose you are wierd boy/girl that can jump into cactus forest or let your friend punch you in balls. You often take a video of this craziest things post it on youtube, try to be popular. But will you do some tasks for somebody, who can pay to you, for your discusting doings?
 
@@ -46,7 +46,7 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 <a name="SmartHomeTemp"></a>
 
-#### **SmartHomeTemp** - temperature control by neural network.
+### **SmartHomeTemp** - temperature control by neural network.
 
 **idea** - if you got a smart home tool kit you may collect data about temperature in house and temperature out  of house. After it you may train neural net and she will control temperature.
 
@@ -56,14 +56,14 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 <a name="HotOrNot"></a>
 
-#### **HotOrNot** - how much you hot
+### **HotOrNot** - how much you hot
 
 **idea** - we need a dataset  with photo and average assessment of beauty of girl/boy
 
 
 ----------------------------------------------
 
-#### **P.S. I dont check if that ideas already exist**
+### **P.S. I dont check if that ideas already exist**
 __________________________________
 The MIT License (MIT)
 Copyright © 2017 Bychek Anton
