@@ -33,7 +33,9 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 ----------------------------------------------
 
+**HotOrNot** - how much you hot
 
+**idea** - we need a dataset  with photo and average assessment of beauty of girl/boy
 
 
 ----------------------------------------------
