@@ -23,7 +23,7 @@ This is a list of ideas for Sturtups
 
 <a name="FormulaTranslator"></a>
 
-#### **ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
+### **ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
 
 **How to do**: 
 
