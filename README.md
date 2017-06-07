@@ -6,10 +6,15 @@ This is a list of ideas for Sturtups
 -----------------------------------------------
 
 [**ForlmulaTranslator**](#FormulaTranslator)
+
 [**BitDream**](#BitDream)
+
 [**BitDream**](#BitDream)
+
 [**SmartHomeTemp**](#SmartHomeTemp)
+
 [**HotOrNot**](#HotOrNot)
+
 
 
 
