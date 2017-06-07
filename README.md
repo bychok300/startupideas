@@ -5,6 +5,20 @@ This is a list of ideas for Sturtups
 
 -----------------------------------------------
 
+[**ForlmulaTranslator**](#FormulaTranslator)
+[**BitDream**](#BitDream)
+[**BitDream**](#BitDream)
+[**SmartHomeTemp**](#SmartHomeTemp)
+[**HotOrNot**](#HotOrNot)
+
+
+
+
+
+
+----------------------------------------------
+
+<a name="FormulaTranslator"></a>
 
 **ForlmulaTranslator** - basic idea is transform formulas from pictures to python code.
 
@@ -14,6 +28,8 @@ I think that simple way to do it is use openCV.
 First of all you need to learn to recognize formulas at pictures. You may use short list of it to less the training time. Second step is build an algorithm, that will transform recognized formulas from pictures and it will transform it to python code.
 
 -----------------------------------------------
+
+<a name="BitDreamr"></a>
 
 **BitDream** - doing not usual things for money.
 
@@ -25,6 +41,8 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 ----------------------------------------------
 
+<a name="SmartHomeTemp"></a>
+
 **SmartHomeTemp** - temperature control by neural network.
 
 **idea** - if you got a smart home tool kit you may collect data about temperature in house and temperature out  of house. After it you may train neural net and she will control temperature.
@@ -32,6 +50,8 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 **main feature :** So, i think that main feature it is a automated collecting data and neural network training. I think that if temperature on street higher hour after hour the conditioner need more energy to ensure a stable temperature inside of house. Thats why we need machine learning, i think that it can help control temperature and energy balance to ensure comfortable temperature in and  less using energy.
 
 ----------------------------------------------
+
+<a name="HotOrNot"></a>
 
 **HotOrNot** - how much you hot
 
