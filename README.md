@@ -32,7 +32,7 @@ This is a list of ideas for Sturtups
 I think that simple way to do it is use openCV.
 First of all you need to learn to recognize formulas at pictures. You may use short list of it to less the training time. Second step is build an algorithm, that will transform recognized formulas from pictures and it will transform it to python code.
 
-[### &#128285;](#Up)
+[&#128285;](#Up)
 
 -----------------------------------------------
 
@@ -46,6 +46,8 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 **basic concept :** you create account and can create new tasks that will on main page of app. Another users can do it task, and share to you the evidence that task was done, but the verifications of how truthly was evidence will do by admins of app. After verifying of evidance user can get a money for his finished task. After it you can publish it on main page or in the relevant section, or make it private and just take your money.
 
+[&#128285;](#Up)
+
 ----------------------------------------------
 
 <a name="SmartHomeTemp"></a>
@@ -56,7 +58,7 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 **main feature :** So, i think that main feature it is a automated collecting data and neural network training. I think that if temperature on street higher hour after hour the conditioner need more energy to ensure a stable temperature inside of house. Thats why we need machine learning, i think that it can help control temperature and energy balance to ensure comfortable temperature in and  less using energy.
 
-[up](#Up)
+[&#128285;](#Up)
 
 ----------------------------------------------
 
@@ -66,14 +68,14 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 **idea** - we need a dataset  with photo and average assessment of beauty of girl/boy.
 
-[up](#Up)
+[&#128285;](#Up)
 
 
 ----------------------------------------------
 
 ### **P.S. I dont check if that ideas already exist**
 
-[up](#Up)
+[&#128285;](#Up)
 __________________________________
 The MIT License (MIT)
 Copyright © 2017 Bychek Anton
@@ -85,4 +87,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 IN THIS CONTEXT SOFTWARE MEAN FILE WITH IDEAS AND IDEAS AT LIST
 
-[up](#Up)
+[&#128285;](#Up)
