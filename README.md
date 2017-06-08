@@ -16,6 +16,7 @@ This is a list of ideas for Sturtups
 [**HotOrNot**](#HotOrNot)
 
 
+[**trafficJamController**](#trafficJamController)
 
 
 
@@ -65,6 +66,14 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 ### **HotOrNot** - how much you hot
 
 **idea** - we need a dataset  with photo and average assessment of beauty of girl/boy. [&#128285;](#Up)
+
+----------------------------------------------
+
+<a name="trafficJamController"></a>
+
+### **trafficJamController** - predict traffic jam.
+
+**basic concept :** We've got Yandex maps API for business (for example). We will load all info about traffic jams per some time, second step it train neural net and try to predict traffic jams.  [&#128285;](#Up)
 
 
 ----------------------------------------------
