@@ -17,7 +17,7 @@ This is a list of ideas for Sturtups
 
 [**TrafficJamController**](#trafficJamController)
 
-[**DroneForConstructions**](#droneForConstructions)
+[**DroneForConstructions**](#DroneForConstructions)
 
 
 
@@ -36,7 +36,7 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 -----------------------------------------------
 
-<a name="BitDreamr"></a>
+<a name="BitDream"></a>
 
 ### **BitDream** - doing not usual things for money.
 
@@ -84,7 +84,7 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 ### **DroneForConstructions** - drone for manufacturing.
 
-**basic concept :** if you need up large object you need to use helicopter or huge crane, but what if you build huge drone that can bring to the top huge object. [🔝](#Up) .  [&#128285;](#Up)
+**basic concept :** if you need up large object you need to use helicopter or huge crane, but what if you build huge drone that can bring to the top huge object. [&#128285;](#Up)
 
 
 
