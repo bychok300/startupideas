@@ -15,8 +15,9 @@ This is a list of ideas for Sturtups
 
 [**HotOrNot**](#HotOrNot)
 
+[**DroneForConstructions**](#trafficJamController)
 
-[**TrafficJamController**](#trafficJamController)
+[**DroneForConstructions**](#trafficJamController)
 
 
 
@@ -74,6 +75,20 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 ### **TrafficJamController** - predict traffic jam.
 
 **basic concept :** We've got Yandex maps API for business (for example). We will load all info about traffic jams per some time, second step it train neural net and try to predict traffic jams.  [&#128285;](#Up)
+
+
+----------------------------------------------
+
+----------------------------------------------
+
+<a name="DroneForConstructions"></a>
+
+### **DroneForConstructions** - drone for manufacturing.
+
+**basic concept :** if you need up large object you need to use helicopter or huge crane, but what if you build huge drone that can bring to the top huge object. [🔝](#Up) .  [&#128285;](#Up)
+
+
+----------------------------------------------
 
 
 ----------------------------------------------
