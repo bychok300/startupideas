@@ -15,9 +15,9 @@ This is a list of ideas for Sturtups
 
 [**HotOrNot**](#HotOrNot)
 
-[**DroneForConstructions**](#trafficJamController)
+[**TrafficJamController**](#trafficJamController)
 
-[**DroneForConstructions**](#trafficJamController)
+[**DroneForConstructions**](#droneForConstructions)
 
 
 
@@ -79,7 +79,6 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 ----------------------------------------------
 
-----------------------------------------------
 
 <a name="DroneForConstructions"></a>
 
@@ -87,8 +86,6 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 **basic concept :** if you need up large object you need to use helicopter or huge crane, but what if you build huge drone that can bring to the top huge object. [🔝](#Up) .  [&#128285;](#Up)
 
-
-----------------------------------------------
 
 
 ----------------------------------------------
