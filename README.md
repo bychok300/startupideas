@@ -19,7 +19,7 @@ This is a list of ideas for Sturtups
 
 [**DroneForConstructions**](#DroneForConstructions)
 
-
+[**neural net that will be find picture for post in social media**](#PicForText)
 
 
 
@@ -89,6 +89,14 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 
 ----------------------------------------------
+
+<a name="PicForText"></a>
+
+### **neural net that will be find picture for post in social media**
+
+**basic concept :** In communities of facebook, or peoples post. It always contains picture above text. I suppoe it will be fun if picture will find picture for text. [&#128285;](#Up)
+
+-----------------------------------------------
 
 ### **P.S. I dont check if that ideas already exist** [&#128285;](#Up)
 
