@@ -102,7 +102,7 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 
 ### **google spy blocker**
 
-**basic concept :** create a programm that will block google tries to spy on you.[&#128285;](#Up)
+**basic concept :** create a programm that will block google attempts to spy on you[&#128285;](#Up)
 
 -----------------------------------------------
 
