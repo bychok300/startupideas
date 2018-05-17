@@ -21,7 +21,7 @@ This is a list of ideas for Sturtups
 
 [**neural net that will be find picture for post in social media**](#PicForText)
 
-
+[**google spy blocker**](#googleblock)
 
 ----------------------------------------------
 
@@ -95,6 +95,14 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 ### **neural net that will be find picture for post in social media**
 
 **basic concept :** In communities of facebook, or peoples post. It always contains picture above text. I suppoe it will be fun if picture will find picture for text. [&#128285;](#Up)
+
+-----------------------------------------------
+
+<a name="googleblock"></a>
+
+### **google spy blocker**
+
+**basic concept :** create a programm that will block google tries to spy on you.[&#128285;](#Up)
 
 -----------------------------------------------
 
