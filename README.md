@@ -23,6 +23,8 @@ This is a list of ideas for Sturtups
 
 [**google spy blocker**](#googleblock)
 
+[**apps spy blocker**](#appblock)
+
 ----------------------------------------------
 
 <a name="FormulaTranslator"></a>
@@ -103,6 +105,14 @@ First of all you need to learn to recognize formulas at pictures. You may use sh
 ### **google spy blocker**
 
 **basic concept :** create a programm that will block google attempts to spy on you[&#128285;](#Up)
+
+-----------------------------------------------
+
+<a name="appblock"></a>
+
+### **apps spy blocker**
+
+**basic concept :** mobile app that allow to disable all sensors on demand to provide full secure[&#128285;](#Up)
 
 -----------------------------------------------
 
